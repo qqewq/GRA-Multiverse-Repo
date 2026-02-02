@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.18458276
 # GRA Multiverse Meta-Zeroing
 
 A hierarchical variational framework for enforcing cross-level consistency across arbitrarily deep stacks of models, domains, or theories.
