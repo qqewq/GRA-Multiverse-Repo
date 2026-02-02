@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "GRA Multiverse Meta-Zeroing: A Hierarchical Variational Framework for Cross-Level Consistency"
+authors:
+  - family-names: Bitsoev
+    given-names: Oleg
+  - family-names: Birsoev
+    given-names: Oleg
+date-released: 2026-02-02
+version: 1.0.0
+doi: 10.5281/zenodo.18458276
+url: https://doi.org/10.5281/zenodo.18458276
+license: CC-BY-4.0
